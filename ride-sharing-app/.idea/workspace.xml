@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad9557ec-2207-4895-88b8-1371b8278a42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../low-level-design.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/controller/RideSharingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/BasicProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/Fare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/Location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/PremiumProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/Rider$RiderBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/Rider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/Trip$TripBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/Trip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/TripStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/User$UserBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/Vehicle$VehicleBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/VehicleType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/models/XLProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/repository/FareRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/repository/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/repository/RiderRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/repository/TripRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/services/RiderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/services/TripService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/services/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/strategies/BasicPricingStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/strategies/DistanceCalculationStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/strategies/ManhattanDistanceCalculationStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/strategies/NearestRiderMatchingStartegy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/strategies/PeakHourPricingStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/strategies/PricingStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/low-level-design/strategies/RiderMatchingStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ride-sharing-app.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3B6wff55bGhTkMSAx9pWNQSMdQp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.ride-sharing-app.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/rajarshisengupta/IdeaProjects/low-level-design/ride-sharing-app/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ride-sharing-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad9557ec-2207-4895-88b8-1371b8278a42" name="Changes" comment="" />
+      <created>1773822935906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773822935906</updated>
+      <workItem from="1773822936937" duration="1181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
